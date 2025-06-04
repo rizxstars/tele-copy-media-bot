@@ -42,8 +42,8 @@ A powerful and feature-rich Telegram bot that allows you to copy messages and me
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/telegram-copy-bot.git
-cd telegram-copy-bot
+git clone https://github.com/rizxstars/telegram-copy-media-bot.git
+cd telegram-copy-media-bot
 ```
 
 2. **Install dependencies:**
@@ -167,9 +167,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/telegram-copy-bot/issues)
+- **Issues**: [GitHub Issues](https://github.com/rizxstars/telegram-copy-media-bot/issues)
 - **Telegram**: [@acclaimedkyy](https://t.me/acclaimedkyy)
-- **Email**: your-email@example.com
+- **Email**: neverthathandsome@gmail.com
 
 ## 🌟 Acknowledgments
 
@@ -179,14 +179,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/telegram-copy-bot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/telegram-copy-bot?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/telegram-copy-bot)
-![GitHub license](https://img.shields.io/github/license/yourusername/telegram-copy-bot)
+![GitHub stars](https://img.shields.io/github/stars/rizxstars/telegram-copy-media-bot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rizxstars/telegram-copy-media-bot?style=social)
+![GitHub issues](https://img.shields.io/github/issues/rizxstars/telegram-copy-media-bot)
+![GitHub license](https://img.shields.io/github/license/rizxstars/telegram-copy-media-bot)
 
 ---
 
 <div align="center">
   <strong>Made with ❤️ by <a href="https://t.me/acclaimedkyy">@acclaimedkyy</a></strong>
   <br>
-  <sub>⚡ Enhanced Version</sub></div>
+  <sub>⚡ Enhanced Version</sub>
+</div>
