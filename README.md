@@ -189,5 +189,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <strong>Made with ❤️ by <a href="https://t.me/acclaimedkyy">@acclaimedkyy</a></strong>
   <br>
-  <sub>⚡ Enhanced Version</sub>
-</div>
+  <sub>⚡ Enhanced Version</sub></div>
